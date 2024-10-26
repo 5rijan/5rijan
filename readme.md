@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-    <img src="https://github.com/pifafu/pifafu/assets/5679180/07d226f9-2b92-4077-af43-37c92be369f2" width="28px">
+    <img src="https://github.com/5rijan/5rijan/blob/main/giphy.webp" width="28px">
   </samp>
 </p>
 
