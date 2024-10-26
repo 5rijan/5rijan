@@ -1,12 +1,8 @@
 <p align="center">
   <samp>
     Hello! I'm Srijan. <br /> I'm from India, now in Sydney, <br /> studying CS at Usyd.
-
-.
   </samp>
 </p>
-
-<br/>
 
 <p align="center">
   <samp>
@@ -19,7 +15,6 @@
     I’m passionate about crafting innovative <br>tech, from research projects to interactive apps, always <br> with a focus on learning and growth.
   </samp>
 </p>
-<br/>
 
 <p align="center">
   <samp>
@@ -33,8 +28,6 @@
     searching for new music, or exploring hidden parks.
   </samp>
 </p>
-
-<br/>
 
 <p align="center">
   <samp>
