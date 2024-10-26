@@ -35,7 +35,7 @@
 
 <p align="center">
   <samp>
-    @ me on <a href="https://twitter.com/pifafu">Twitter</a><br><br>
+    @ me on <a href="https://twitter.com/pifafu](https://read.cv/5rijan">read.cv</a><br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
