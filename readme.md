@@ -13,7 +13,7 @@
 
 <p align="center">
   <samp>
-    I’m passionate about crafting innovative tech <br> , from research projects to interactive apps, <br>  always with a focus on learning and growth.
+    I’m passionate about crafting innovative <br>tech, from research projects to interactive apps, always <br> with a focus on learning and growth.
   </samp>
 </p>
 <br/>
