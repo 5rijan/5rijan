@@ -36,7 +36,7 @@
 <p align="center">
   <samp>
     @ me on <a href="https://read.cv/5rijan">read.cv</a><br><br>
-    <img src="<iframe src="https://giphy.com/embed/UQ1EI1ML2ABQdbebup" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/cat-pixel-bongo-UQ1EI1ML2ABQdbebup">via GIPHY</a></p>" width="240px" align="center">
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
 
